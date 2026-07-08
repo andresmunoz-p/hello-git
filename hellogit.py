@@ -1,2 +1,2 @@
-print ("Estoy cambiando este primer archivo")
+print ("Estoy cambiando este primeer archivo")
 print ("Este es el primer archivo")
